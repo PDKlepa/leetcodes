@@ -10,6 +10,7 @@ def singleNumber(nums):
         else:
             nums.pop(0)
             nums.pop(0)
+            
     return nums[0]
 
 
